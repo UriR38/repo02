@@ -1,4 +1,4 @@
-Edito el fichero  
+Readme de ejemplo.
 
 |Header |Column 1 | Column 2 | Column 3  | Test |
 |:--- |:---- |:----:| ----:| ------------- |
